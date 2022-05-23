@@ -1,5 +1,6 @@
 # NLW-Return-Impulse-Web
-↩ An easy and accessible feedback component for web and mobile applications. Created with ReactJS, NodeJS and React Native. Created while NLW Return by @Rocketseat.
+↩ An easy and accessible feedback component for web and mobile applications. Created with ReactJS, NodeJS and React Native. Created while NLW Return by @Rocketseat. <br/>
+<br/>
 To run this project you must execute:
   1. npm install
   2. npm run dev
